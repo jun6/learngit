@@ -1,4 +1,0 @@
-git is a version2 control2
-再测试一下
-
-测试删除后checkout
